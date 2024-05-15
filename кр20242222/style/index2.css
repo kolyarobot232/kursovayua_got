@@ -1,0 +1,30 @@
+.link23{
+    color: black;
+}
+.text{
+    margin-bottom:15px
+}
+.avtoriz{
+    text-align:center;
+    border: 5px solid lime;
+    width: 500px;
+    height: 250px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#00AB76;
+}
+.login23, .password23{
+    width:400px;
+    height: 25px;
+    margin-bottom: 15px;
+}
+.button23{
+    margin-top: 10px;
+    width:400px;
+    margin-bottom:30px;
+}
+.text23{
+    text-align:start;
+}
